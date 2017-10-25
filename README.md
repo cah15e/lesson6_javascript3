@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 25, 2016
 
 ### Student Name:  
-(First and Last Name)
+Chyanne Harrison
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we built an application that allows use to change images horizontally through the click of an arrow.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
